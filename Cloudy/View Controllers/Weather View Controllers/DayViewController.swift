@@ -30,6 +30,7 @@ class DayViewController: WeatherViewController {
 
     // MARK: -
 
+    // view controller kepps reference to the model.
     var now: WeatherData? {
         didSet {
             updateView()
