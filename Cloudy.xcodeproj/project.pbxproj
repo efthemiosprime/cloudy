@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A38EA131F2987E0001BFBF4 /* WeekViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A38EA121F2987E0001BFBF4 /* WeekViewViewModel.swift */; };
 		3A63265D1F2853800095EF33 /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A63265C1F2853800095EF33 /* UIImage.swift */; };
 		3ABD905E1F26EDD3008736B0 /* DayViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABD905D1F26EDD3008736B0 /* DayViewViewModel.swift */; };
 		CC08B9DB1DA206EE00754A85 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC08B9DA1DA206EE00754A85 /* SettingsViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A38EA121F2987E0001BFBF4 /* WeekViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekViewViewModel.swift; sourceTree = "<group>"; };
 		3A63265C1F2853800095EF33 /* UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
 		3ABD905D1F26EDD3008736B0 /* DayViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayViewViewModel.swift; sourceTree = "<group>"; };
 		CC08B9DA1DA206EE00754A85 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				3ABD905D1F26EDD3008736B0 /* DayViewViewModel.swift */,
+				3A38EA121F2987E0001BFBF4 /* WeekViewViewModel.swift */,
 			);
 			path = "View Models";
 			sourceTree = "<group>";
@@ -374,6 +377,7 @@
 				CC7854CD1D9FF99700E7836D /* WeatherViewController.swift in Sources */,
 				CC83E0D51F13BF3B00EB0CAC /* LocationsViewController.swift in Sources */,
 				3ABD905E1F26EDD3008736B0 /* DayViewViewModel.swift in Sources */,
+				3A38EA131F2987E0001BFBF4 /* WeekViewViewModel.swift in Sources */,
 				CC89B4391D9FE3D0006BFD6E /* RootViewController.swift in Sources */,
 				CC89B44C1D9FEB73006BFD6E /* JSONDecodable.swift in Sources */,
 				CC89B4451D9FE897006BFD6E /* DataManager.swift in Sources */,
