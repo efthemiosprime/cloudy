@@ -750,6 +750,7 @@
 				3A8458A31F2AC2B9007C47EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC89B4121D9FE314006BFD6E /* Build configuration list for PBXProject "Cloudy" */ = {
 			isa = XCConfigurationList;
