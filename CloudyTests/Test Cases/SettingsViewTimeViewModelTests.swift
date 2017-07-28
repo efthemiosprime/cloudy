@@ -31,7 +31,7 @@ class SettingsViewTimeViewModelTests: XCTestCase {
     
     func testText_TwentyFourHour() {
         let viewModel = SettingsViewTimeViewModel(timeNotation: .twentyFourHour)
-        XCTAssertEqual(viewModel.text, "24 Hour")
+        XCTAssertEqual(viewModel.text, "22 Hour")
     }
 
     
