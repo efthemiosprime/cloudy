@@ -8,7 +8,7 @@
 // switching between 12 hour and 24 hour time notation
 import UIKit
 
-struct SettingsViewTimeViewModel {
+struct SettingsViewTimeViewModel  {
     // MARK: - Properties
     
     let timeNotation: TimeNotation
@@ -27,4 +27,8 @@ struct SettingsViewTimeViewModel {
             return .none
         }
     }
+}
+
+extension SettingsViewTimeViewModel: SettingsRepresentable {
+    
 }

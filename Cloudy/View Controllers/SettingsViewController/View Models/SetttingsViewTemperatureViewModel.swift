@@ -28,3 +28,8 @@ struct SetttingsViewTemperatureViewModel {
     }
     
 }
+
+
+extension SetttingsViewTemperatureViewModel: SettingsRepresentable {
+    
+}

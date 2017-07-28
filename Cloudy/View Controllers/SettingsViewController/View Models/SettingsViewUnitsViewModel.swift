@@ -28,3 +28,7 @@ struct SettingsViewUnitsViewModel {
     }
     
 }
+
+extension SettingsViewUnitsViewModel: SettingsRepresentable {
+    
+}
